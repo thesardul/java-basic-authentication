@@ -24,9 +24,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="GlassFish 5.0.0 - JAX RESTful Web Services" level="application_server_libraries" />
-    <orderEntry type="library" scope="PROVIDED" name="GlassFish 5.0.0" level="application_server_libraries" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: mysql:mysql-connector-java:8.0.20" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="GlassFish 5.0.0 - JAX RESTful Web Services" level="application_server_libraries" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="GlassFish 5.0.0" level="application_server_libraries" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.20" level="project" />
     <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.6.1" level="project" />
+    <orderEntry type="library" name="Maven: javax.ws.rs:javax.ws.rs-api:2.1.1" level="project" />
   </component>
 </module>
